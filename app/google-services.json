@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "113220898788",
+    "project_id": "atakantwitter-99046",
+    "storage_bucket": "atakantwitter-99046.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:113220898788:android:a7ed9608200bace47601f1",
+        "android_client_info": {
+          "package_name": "com.boun.atakantwitter2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "113220898788-llbfu2d7c9ss0u1rr34r89rum6aoldel.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCoOj8Kuwno-li3vB29IGWMpOs4CrZT1oI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "113220898788-llbfu2d7c9ss0u1rr34r89rum6aoldel.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
